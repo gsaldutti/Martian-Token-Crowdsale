@@ -65,7 +65,7 @@ Email: greggnyc1@gmail.com
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Copyright © 2022 #Joint-Savings-Account
+## Copyright © 2022 #Martian Token Crowdsale
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
