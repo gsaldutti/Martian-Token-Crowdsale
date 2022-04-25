@@ -1,3 +1,43 @@
+## Background
+
+After waiting for years and passing several tests, the Martian Aerospace Agency selected you to become part of the first human colony on Mars. As a prominent fintech professional, they chose you to lead a project developing a monetary system for the new Mars colony. You decided to base this new system on blockchain technology and to define a new cryptocurrency named **KaseiCoin**. (Kasei means Mars in Japanese.)
+
+KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
+
+## Files
+
+Download the following files to help you get started:
+
+[KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)
+
+[KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
+
+## Instructions
+
+The steps for this assignment are divided into the following subsections:
+
+1. Create the KaseiCoin Token Contract
+
+2. Create the KaseiCoin Crowdsale Contract
+
+3. Create the KaseiCoin Deployer Contract
+
+4. Deploy and Test the Crowdsale on a Local Blockchain
+
+5. Optional: Extend the Crowdsale Contract by Using OpenZeppelin
+
+    > **Note:** You can choose whether to complete the optional section. It’s designed to further your professional growth and development but won’t be graded as part of this assignment. If you choose to complete this section, you’ll use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that can be created. If you have any questions about how to complete the optional section, please reach out to your instructional team.
+
+Note that the provided starter files for this homework assignment contain a `pragma` statement for Solidity version 0.5.0. You’ll use the starter files to complete the steps in the subsections.
+
+In the subsections, you’ll create a fungible token that’s ERC-20 compliant. This token will be minted by using a `Crowdsale` contract from the OpenZeppelin Solidity library.
+
+The crowdsale contract that you create will manage the entire crowdsale process. This process will allow users to send ether to the contract and receive KaseiCoin tokens, or **KAI**, in return. Your contract will automatically mint the tokens and distribute them to a buyer in one transaction.
+
+Note that you’ll record a short video or animated GIF or take several screenshots that show the deployed contract in action.
+
+In the `README.md` file of your GitHub repository for this homework assignment, you’ll create a section named Evaluation Evidence. In this section, you’ll share screenshots of your work from each subsection of the assignment.
+
 # Martian Token Crowdsale
 This prototype project involves three Solidity smart contracts that would allow people moving to Mars to convert their earthling money to a proposed new cryptocurrency named KaseiCoin. The KaseiCoin would be an ERC-20 compliant fungible token, and the currency conversion would be accomplished through a crowdsale.  
 
