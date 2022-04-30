@@ -60,7 +60,11 @@ Once the KaseiCoin and KaseiCoinCrowdsale smart contracts are loaded, users can 
 
 **Deployment:**
 
-In the "Deploy and Run Transactions" pane, the Injected Web3 environment rather than the JavaScript VM must be selected. Next, from the "Contract" dropdown list, the KaseiCoinCrowdsaleDeployer contract should be selected as the contract to deploy. There are three fields: Name, Symbol, and Wallet that need to be filled in before clicking the transact button to deploy the contract.
+In the "Deploy and Run Transactions" pane, the Injected Web3 environment rather than the JavaScript VM must be selected. 
+
+Next, from the "Contract" dropdown list, the KaseiCoinCrowdsaleDeployer contract should be selected as the contract to deploy. 
+
+There are three fields: Name, Symbol, and Wallet that need to be filled in before clicking the transact button to deploy the contract.
 
 ![KaseiCoinCrowdsaleDeployer_PreDeploying](Evaluation_Evidence/KaseiCoinCrowdsaleDeployer_PreDeploying.png)
 
