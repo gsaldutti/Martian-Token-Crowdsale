@@ -42,7 +42,13 @@ In the `README.md` file of your GitHub repository for this homework assignment, 
 This prototype project involves three Solidity smart contracts that would allow people moving to Mars to convert their earthling money to a proposed new cryptocurrency named KaseiCoin. The KaseiCoin would be an ERC-20 compliant fungible token, and the currency conversion would be accomplished through a crowdsale.  
 
 ## Technologies
-The technologies required to use this project are: Remix IDE, MetaMask, and Ganache.
+The technologies required to use this project are: 
+
+Remix IDE
+
+MetaMask
+
+Ganache
 
 ## Examples
 Upon deploying the KaseiCoinCrowdsaleDeployer contract, the other two contracts are also created and can be loaded using their contract addresses. Details of how to deploy and load the smart contracts are shown in the "Deployment" section below. Once the KaseiCoin and KaseiCoinCrowdsale smart contracts are loaded, users can buy new tokens for recipient addresses and check the balances of the accounts. They can also view the total supply of minted tokens, and how much wei the crowdsale contract has raised.   
