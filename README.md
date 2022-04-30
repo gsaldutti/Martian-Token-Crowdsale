@@ -45,7 +45,7 @@ This prototype project involves three Solidity smart contracts that would allow 
 The technologies required to use this project are: 
 
 
-[Remix IDE](https://remix.ethereum.org/)
+[Remix IDE](https://remix.ethereum.org/) - Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as act as a playground for learning and teaching Ethereum.
 
 [MetaMask](https://metamask.io)
 
