@@ -44,13 +44,12 @@ This prototype project involves three Solidity smart contracts that would allow 
 ## Technologies
 The technologies required to use this project are: 
 
-[typing](https://docs.python.org/3/library/typing.html)- This allows us to use the most fundamental support consisting of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
 
 [Remix IDE](https://remix.ethereum.org/)
 
 [MetaMask](https://metamask.io)
 
-Ganache
+[Ganache](https://https://trufflesuite.com/ganache)
 
 ## Examples
 Upon deploying the KaseiCoinCrowdsaleDeployer contract, the other two contracts are also created and can be loaded using their contract addresses. Details of how to deploy and load the smart contracts are shown in the "Deployment" section below. Once the KaseiCoin and KaseiCoinCrowdsale smart contracts are loaded, users can buy new tokens for recipient addresses and check the balances of the accounts. They can also view the total supply of minted tokens, and how much wei the crowdsale contract has raised.   
