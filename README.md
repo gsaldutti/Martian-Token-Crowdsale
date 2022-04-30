@@ -44,9 +44,11 @@ This prototype project involves three Solidity smart contracts that would allow 
 ## Technologies
 The technologies required to use this project are: 
 
-Remix IDE
+[typing](https://docs.python.org/3/library/typing.html)- This allows us to use the most fundamental support consisting of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
 
-MetaMask
+[Remix IDE](https://remix.ethereum.org/)
+
+[MetaMask](https://metamask.io)
 
 Ganache
 
